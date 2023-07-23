@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CloudStorageDemo</string>
+    <string name="btn_upload">Upload</string>
+    <string name="description">Description</string>
+</resources>
